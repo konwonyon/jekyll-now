@@ -1,5 +1,5 @@
 ---
-title: Untitled document
+title: Trying the harder parts of Python
 layout: post
 author: rishan.bhima
 permalink: /untitled-document/
